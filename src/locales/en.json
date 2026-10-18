@@ -1,0 +1,244 @@
+{
+  "site": {
+    "name": "Beyond These Stars Wiki",
+    "shortName": "Beyond These Stars",
+    "tagline": "Fan-Made Wiki",
+    "description": "Fan wiki for Beyond These Stars, the space-whale city builder by Balancing Monkey Games — beginner guides, city layout tips, resource and supply chain mechanics, Kewa the space whale and the 1.0 launch.",
+    "legalNotice": "Independent fan wiki. Not affiliated with Balancing Monkey Games or Hooded Horse."
+  },
+  "nav": {
+    "guides": "Guides",
+    "features": "Kewa & Systems",
+    "comparisons": "Comparisons",
+    "faq": "FAQ",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
+  "home": {
+    "meta": {
+      "title": "Beyond These Stars Wiki: Space Whale City Builder Guide",
+      "description": "Beyond These Stars wiki — build your first city on Kewa the space whale: beginner guides, supply chain mechanics, city layout tips and the 1.0 launch."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Wiki",
+      "title": "Beyond These Stars",
+      "description": "Beyond These Stars is the space-whale city builder from Balancing Monkey Games, published by Hooded Horse — build a sprawling city on the back of Kewa the space whale, manage supply chains and your people's needs as you journey through the galaxy seeking purpose and answers. Released at 1.0 on October 16, 2026 after skipping early access entirely, with a 20% launch discount on Steam. This wiki covers it from launch day: the beginner guides, the resource and supply chain mechanics, city layout tips, Kewa and the journey, and how it connects to Before We Leave.",
+      "primaryCta": "Read the Complete Guide",
+      "secondaryCta": "Watch the Launch Trailer",
+      "tertiaryCta": "All Guides",
+      "stats": ["1.0 Out Now", "Build on a Space Whale", "Publisher Hooded Horse", "Launch-Day Coverage"]
+    },
+    "updates": {
+      "title": "Fresh From the Whaleback",
+      "browse": "Browse All Guides",
+      "viewAll": "View All"
+    },
+    "start": {
+      "eyebrow": "Your First City In Four Steps",
+      "title": "From Landing to a Thriving Whaleback City",
+      "cards": [
+        { "number": "1", "title": "Know the Game", "description": "Beyond These Stars released at 1.0 on October 16, 2026 — the complete guide explains the space-whale premise, the developers' journey and what the launch includes." },
+        { "number": "2", "title": "Plan the First City", "description": "The whaleback is a curved, living landscape — the beginner's first city guide covers districts, terrain and the layouts that scale." },
+        { "number": "3", "title": "Master the Chains", "description": "Resources move through supply chains, not magic — the supply chain guide maps extraction, processing and delivery the way the game actually wants it." },
+        { "number": "4", "title": "Care for Your People", "description": "Pequeninos have needs beyond food — the systems pages cover housing, work, education and the happiness mechanics that decide a city's fate." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Most-Read This Week",
+      "title": "Trending Now",
+      "quickLinks": ["Beginner", "Supply Chains", "Kewa", "Before We Leave"],
+      "cards": [
+        { "title": "Beyond These Stars Guide", "description": "The complete orientation — what the game is, who made it, and everything before your first landing." },
+        { "title": "Beginner's First City", "description": "From the landing site to a self-sufficient district — the opening hours, planned." },
+        { "title": "Resources & Supply Chains", "description": "How goods actually move on a whale — extraction, processing and the delivery loops." },
+        { "title": "vs Before We Leave", "description": "The semi-sequel question answered — what carried over, what changed, which to buy." }
+      ]
+    },
+    "aboutGame": {
+      "title": "What Is Beyond These Stars?",
+      "paragraphs": [
+        "Beyond These Stars is a city-building strategy game from Balancing Monkey Games, the New Zealand studio behind Before We Leave, published by strategy specialists Hooded Horse. Your people — the Pequeninos — settle on the back of Kewa, a space whale swimming through the galaxy, and you build their civilization across that living, curved landscape: homes and schools, farms and factories, supply chains stretching from the whale's fin to its tail, all while the journey unfolds and the stars outside change.",
+        "The development story is part of the game's identity: originally planned for early access, the studio announced in March 2026 that Beyond These Stars would skip that phase entirely and ship as a complete 1.0 — and on October 16, 2026, it did, launching on Steam and the Epic Games Store with a 20% launch discount. This wiki is the launch-day companion: the guides, the mechanics, the comparisons, written from play and updated as the community maps the whale."
+      ],
+      "stats": [
+        { "label": "Developer", "value": "Balancing Monkey" },
+        { "label": "Publisher", "value": "Hooded Horse" },
+        { "label": "Genre", "value": "City Builder" },
+        { "label": "The Whale", "value": "Kewa" },
+        { "label": "Platforms", "value": "Steam / Epic" },
+        { "label": "Status", "value": "1.0 Out Now" }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Everything on the Whaleback, Mapped",
+      "description": "Guides, systems, comparisons and answers — the complete toolkit.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Beyond These Stars Guide",
+          "description": "The complete orientation.",
+          "href": "/guide/beyond-these-stars-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "The premise — a city on Kewa the space whale" },
+            { "label": "2", "detail": "The studio and the Hooded Horse partnership" },
+            { "label": "3", "detail": "The 1.0 launch that skipped early access" }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Beginner's First City",
+          "description": "The opening hours, planned.",
+          "href": "/guide/beginners-first-city",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Landing site and first district" },
+            { "label": "2", "detail": "Food, wood and the first supply loop" },
+            { "label": "3", "detail": "When to expand and when to consolidate" }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Resources & Supply Chains",
+          "description": "The game's beating heart.",
+          "href": "/guide/resources-and-supply-chains",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "The delivery loops that run themselves" },
+            { "label": "A", "detail": "Processing tiers — raw to refined to goods" },
+            { "label": "B", "detail": "Storage placement on a curved map" },
+            { "label": "C", "detail": "The bottleneck mistakes every new city makes" }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "The 1.0 Launch Guide",
+          "description": "What shipped and what's next.",
+          "href": "/guide/launch-and-editions",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "1.0", "detail": "Full release October 16, 2026 — what's included, the launch discount and where to buy", "badge": "New" }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Kewa & the Journey",
+          "description": "The whale is the world.",
+          "href": "/features/kewa-and-the-journey",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🐋", "detail": "Kewa the space whale — a living, curved landscape" },
+            { "label": "✨", "detail": "The galactic journey and what the stars bring" },
+            { "label": "📐", "detail": "Building on a creature — terrain and district thinking" }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Buildings & People",
+          "description": "Needs beyond food.",
+          "href": "/features/buildings-and-people",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "Housing, work and the happiness foundations" },
+            { "label": "A", "detail": "Education and the advancement chain" },
+            { "label": "B", "detail": "Amenities — what to build and in what order" },
+            { "label": "C", "detail": "The needs new players miss until it's late" }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "vs Before We Leave",
+          "description": "The semi-sequel question.",
+          "href": "/comparisons/vs-before-we-leave",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "What carried over from the planet-based original" },
+            { "label": "2", "detail": "What the whale changes — literally everything" },
+            { "label": "3", "detail": "Which game for which builder" }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ",
+          "description": "The straight answers.",
+          "href": "/faq/faq",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "❓", "detail": "Is it in early access? What does 1.0 include?" },
+            { "label": "🛒", "detail": "Steam, Epic, price and the launch discount" },
+            { "label": "🐋", "detail": "Do I need to know Before We Leave?" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Quick answers to the most common questions about Beyond These Stars.",
+      "items": [
+        { "question": "Is Beyond These Stars out?", "answer": "Yes — the full 1.0 released on October 16, 2026 on Steam and the Epic Games Store, with a 20% launch discount on Steam. The game skipped its originally planned early access phase entirely and shipped complete." },
+        { "question": "What is Beyond These Stars about?", "answer": "It's a city builder where your people settle on the back of Kewa, a space whale journeying through the galaxy. You manage supply chains and your citizens' needs on a living, curved landscape while the journey's story unfolds." },
+        { "question": "Is it in early access?", "answer": "No. The developers at Balancing Monkey Games announced in March 2026 that the game would skip early access and launch as a complete 1.0 — and it did, in October 2026." },
+        { "question": "Do I need to play Before We Leave first?", "answer": "No — Beyond These Stars is a semi-sequel with its own story and tutorial. The comparison page covers what carried over for fans of the original, but new players can start right here." }
+      ]
+    },
+    "finalCta": {
+      "title": "The whaleback is open.",
+      "description": "The guides, the mechanics, the comparisons — everything to build a thriving city on Kewa from day one.",
+      "primary": "Read the Complete Guide",
+      "secondary": "The Steam Page"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki Navigation",
+    "activeCodes": "Launch Tracker",
+    "updated": "Updated",
+    "viewAllCodes": "View all guides",
+    "inThisSection": "In this section",
+    "tableOfContents": "Table of Contents",
+    "nextSteps": "Next Steps",
+    "needHelp": "Need Help?",
+    "relatedReading": "Related Reading",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Beyond These Stars Wiki",
+    "about": "Beyond These Stars Wiki is an independent fan-built wiki covering the space-whale city builder from Balancing Monkey Games and Hooded Horse — beginner guides, supply chain mechanics, city layout tips and Kewa the space whale, written from play and updated as the community maps the whale.",
+    "quickLinks": "Quick Links",
+    "guides": "Guides",
+    "legal": "Legal",
+    "copyright": "2026 Beyond These Stars Wiki. Not affiliated with Balancing Monkey Games or Hooded Horse. Beyond These Stars is a trademark of its respective owner.",
+    "description": "The Beyond These Stars wiki — guides, supply chains, city tips and Kewa the space whale.",
+    "playGame": "Steam Page",
+    "officialDiscord": "Community",
+    "officialYoutube": "Developer",
+    "epicStore": "Epic Store",
+    "beginnerGuide": "Complete Guide",
+    "mapGuides": "First City",
+    "weaponsGuides": "Supply Chains",
+    "buildGuide": "vs Before We Leave",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Guides",
+    "overviewDescription": "Every Beyond These Stars guide — the complete orientation, your first city, the supply chains and the 1.0 launch."
+  },
+  "features": {
+    "overviewTitle": "Kewa & Systems",
+    "overviewDescription": "The whale, the journey, the buildings and the people — the systems that make a whaleback city live."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparisons",
+    "overviewDescription": "Beyond These Stars against its planet-based ancestor — what carried over and what the whale changed."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Straight answers about the game — the 1.0 launch, the platforms, the price and the whale."
+  }
+}

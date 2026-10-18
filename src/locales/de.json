@@ -1,0 +1,244 @@
+{
+  "site": {
+    "name": "Beyond These Stars Wiki",
+    "shortName": "Beyond These Stars",
+    "tagline": "Fan-Wiki",
+    "description": "Fan-Wiki zu Beyond These Stars, dem Weltraumwal-City-Builder von Balancing Monkey Games — Einsteigerguides, Lieferketten-Mechaniken, der Wal Kewa und der 1.0-Start.",
+    "legalNotice": "Unabhängige Fan-Wiki. Nicht mit Balancing Monkey Games oder Hooded Horse verbunden."
+  },
+  "nav": {
+    "guides": "Guides",
+    "features": "Kewa & Systeme",
+    "comparisons": "Vergleiche",
+    "faq": "FAQ",
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln"
+  },
+  "home": {
+    "meta": {
+      "title": "Beyond These Stars Wiki: Guide zum Weltraumwal-City-Builder",
+      "description": "Beyond These Stars Wiki — baut eure erste Stadt auf Kewa dem Weltraumwal: Guides, Lieferketten, Layout-Tipps und der 1.0-Start."
+    },
+    "hero": {
+      "eyebrow": "Fan-Wiki",
+      "title": "Beyond These Stars",
+      "description": "Beyond These Stars ist der Weltraumwal-City-Builder von Balancing Monkey Games, veröffentlicht von Hooded Horse — baut eine weitläufige Stadt auf dem Rücken von Kewa dem Weltraumwal, verwaltet Lieferketten und die Bedürfnisse eures Volkes auf der Reise durch die Galaxis auf der Suche nach Sinn und Antworten. Am 16. Oktober 2026 als vollständige 1.0 erschienen — nach dem komplett übersprungenen Early Access — mit 20% Start-Rabatt auf Steam. Dieses Wiki begleitet alles ab dem Starttag.",
+      "primaryCta": "Komplette Guide lesen",
+      "secondaryCta": "Launch-Trailer ansehen",
+      "tertiaryCta": "Alle Guides",
+      "stats": ["1.0 jetzt erhältlich", "Baut auf einem Weltraumwal", "Publisher Hooded Horse", "Ab Starttag dabei"]
+    },
+    "updates": {
+      "title": "Frisch vom Walrücken",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Eure erste Stadt in vier Schritten",
+      "title": "Von der Landung zur blühenden Walstadt",
+      "cards": [
+        { "number": "1", "title": "Das Spiel verstehen", "description": "Beyond These Stars erschien am 16. Oktober 2026 als 1.0 — die Komplettguide erklärt die Weltraumwal-Premisse, das Studio und den Start." },
+        { "number": "2", "title": "Die erste Stadt planen", "description": "Der Walrücken ist eine gekrümmte, lebendige Landschaft — der Erste-Stadt-Guide deckt Distrikte, Terrain und skalierbare Layouts ab." },
+        { "number": "3", "title": "Die Ketten meistern", "description": "Ressourcen bewegen sich über Lieferketten, nicht über Magie — der Guide kartiert Förderung, Verarbeitung und Auslieferung." },
+        { "number": "4", "title": "Fürs Volk sorgen", "description": "Pequeninos brauchen mehr als Nahrung — die Systemseiten decken Wohnen, Arbeit, Bildung und Zufriedenheit ab." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Diese Woche am häufigsten gelesen",
+      "title": "Im Trend",
+      "quickLinks": ["Einsteiger", "Lieferketten", "Kewa", "Before We Leave"],
+      "cards": [
+        { "title": "Beyond These Stars Guide", "description": "Die komplette Orientierung — was das Spiel ist, wer es baute und alles vor der ersten Landung." },
+        { "title": "Die erste Stadt", "description": "Vom Landeplatz zum autarken Distrikt — die ersten Stunden, geplant." },
+        { "title": "Ressourcen & Lieferketten", "description": "Wie Waren sich auf einem Wal bewegen — Förderung, Verarbeitung und Auslieferungsschleifen." },
+        { "title": "vs Before We Leave", "description": "Die Semi-Sequel-Frage beantwortet — was übernommen wurde, was sich änderte, was kaufen." }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Beyond These Stars?",
+      "paragraphs": [
+        "Beyond These Stars ist ein City-Building-Spiel von Balancing Monkey Games, dem neuseeländischen Studio hinter Before We Leave, veröffentlicht vom Strategie-Spezialisten Hooded Horse. Euer Volk — die Pequeninos — siedelt auf dem Rücken von Kewa, einem Weltraumwal, der durch die Galaxis schwimmt, und ihr errichtet ihre Zivilisation über diese lebendige, gekrümmte Landschaft: Häuser und Schulen, Farmen und Fabriken, Lieferketten von der Flosse bis zum Schwanz.",
+        "Die Entwicklungsgeschichte gehört zur Identität des Spiels: Ursprünglich für Early Access geplant, kündigte das Studio im März 2026 an, diese Phase komplett zu überspringen und als vollständige 1.0 zu erscheinen — und am 16. Oktober 2026 tat es genau das, auf Steam und dem Epic Games Store mit 20% Start-Rabatt. Dieses Wiki ist der Begleiter des Starttags."
+      ],
+      "stats": [
+        { "label": "Studio", "value": "Balancing Monkey" },
+        { "label": "Publisher", "value": "Hooded Horse" },
+        { "label": "Genre", "value": "City Builder" },
+        { "label": "Der Wal", "value": "Kewa" },
+        { "label": "Plattformen", "value": "Steam / Epic" },
+        { "label": "Status", "value": "1.0 erhältlich" }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Alles auf dem Walrücken, kartiert",
+      "description": "Guides, Systeme, Vergleiche und Antworten — das komplette Toolkit.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Beyond These Stars Guide",
+          "description": "Die komplette Orientierung.",
+          "href": "/guide/beyond-these-stars-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Die Prämisse — eine Stadt auf Kewa dem Wal" },
+            { "label": "2", "detail": "Das Studio und die Hooded-Horse-Partnerschaft" },
+            { "label": "3", "detail": "Der 1.0-Start ohne Early Access" }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Die erste Stadt",
+          "description": "Die ersten Stunden, geplant.",
+          "href": "/guide/beginners-first-city",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Landeplatz und erster Distrikt" },
+            { "label": "2", "detail": "Nahrung, Holz und die erste Versorgungsschleife" },
+            { "label": "3", "detail": "Wann expandieren, wann konsolidieren" }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Ressourcen & Ketten",
+          "description": "Das Herz des Spiels.",
+          "href": "/guide/resources-and-supply-chains",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "Auslieferungsschleifen, die sich selbst tragen" },
+            { "label": "A", "detail": "Verarbeitungsstufen — roh zu refine zu Waren" },
+            { "label": "B", "detail": "Lagerplatzierung auf gekrümmter Karte" },
+            { "label": "C", "detail": "Die Engpass-Fehler jeder neuen Stadt" }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Der 1.0-Start-Guide",
+          "description": "Was erschien und was kommt.",
+          "href": "/guide/launch-and-editions",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "1.0", "detail": "Vollrelease am 16. Oktober 2026 — Inhalt, Startrabatt und Bezugsquellen", "badge": "Neu" }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Kewa & die Reise",
+          "description": "Der Wal ist die Welt.",
+          "href": "/features/kewa-and-the-journey",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🐋", "detail": "Kewa — eine lebendige, gekrümmte Landschaft" },
+            { "label": "✨", "detail": "Die galaktische Reise und was die Sterne bringen" },
+            { "label": "📐", "detail": "Bauen auf einer Kreatur — Terrain und Distrikte" }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Gebäude & Volk",
+          "description": "Bedürfnisse jenseits von Nahrung.",
+          "href": "/features/buildings-and-people",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "Wohnen, Arbeiten und die Fundamente der Zufriedenheit" },
+            { "label": "A", "detail": "Bildung und die Fortschrittskette" },
+            { "label": "B", "detail": "Einrichtungen — was bauen und in welcher Reihenfolge" },
+            { "label": "C", "detail": "Die Bedürfnisse, die Einsteiger zu spät bemerken" }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "vs Before We Leave",
+          "description": "Die Semi-Sequel-Frage.",
+          "href": "/comparisons/vs-before-we-leave",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Was aus dem planetaren Original übernommen wurde" },
+            { "label": "2", "detail": "Was der Wal ändert — buchstäblich alles" },
+            { "label": "3", "detail": "Welches Spiel für welchen Baumeister" }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ",
+          "description": "Die klaren Antworten.",
+          "href": "/faq/faq",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "❓", "detail": "Early Access? Was enthält die 1.0?" },
+            { "label": "🛒", "detail": "Steam, Epic, Preis und Startrabatt" },
+            { "label": "🐋", "detail": "Brauche ich Before We Leave?" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Beyond These Stars.",
+      "items": [
+        { "question": "Ist Beyond These Stars schon draußen?", "answer": "Ja — die vollständige 1.0 erschien am 16. Oktober 2026 auf Steam und dem Epic Games Store mit 20% Start-Rabatt auf Steam. Das Spiel übersprang seine geplante Early-Access-Phase komplett und erschien fertig." },
+        { "question": "Worum geht es in Beyond These Stars?", "answer": "Es ist ein City Builder, in dem euer Volk auf dem Rücken von Kewa siedelt, einem Weltraumwal auf Reise durch die Galaxis. Ihr verwaltet Lieferketten und die Bedürfnisse eurer Bürger auf einer lebendigen, gekrümmten Landschaft, während sich die Geschichte der Reise entfaltet." },
+        { "question": "Ist es in Early Access?", "answer": "Nein. Balancing Monkey Games kündigte im März 2026 an, Early Access zu überspringen und als vollständige 1.0 zu starten — und tat genau das im Oktober 2026." },
+        { "question": "Muss ich vorher Before We Leave spielen?", "answer": "Nein — Beyond These Stars ist ein Semi-Sequel mit eigener Geschichte und eigenem Tutorial. Die Vergleichsseite deckt ab, was für Fans des Originals übernommen wurde, aber Neueinsteiger beginnen einfach hier." }
+      ]
+    },
+    "finalCta": {
+      "title": "Der Walrücken ist offen.",
+      "description": "Die Guides, die Mechaniken, die Vergleiche — alles, um vom ersten Tag an eine blühende Stadt auf Kewa zu bauen.",
+      "primary": "Komplette Guide lesen",
+      "secondary": "Die Steam-Seite"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Start-Tracker",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Guides ansehen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Hilfe nötig?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Bald wieder vorbeischauen!"
+  },
+  "footer": {
+    "aboutTitle": "Beyond These Stars Wiki",
+    "about": "Beyond These Stars Wiki ist eine unabhängige Fan-Wiki zum Weltraumwal-City-Builder von Balancing Monkey Games und Hooded Horse — Guides, Lieferketten-Mechaniken und der Wal Kewa, aus dem Spiel geschrieben und aktualisiert, sobald die Community den Wal kartiert.",
+    "quickLinks": "Quicklinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Beyond These Stars Wiki. Nicht mit Balancing Monkey Games oder Hooded Horse verbunden. Beyond These Stars ist eine Marke des jeweiligen Eigentümers.",
+    "description": "Die Beyond These Stars Wiki — Guides, Lieferketten und Kewa der Weltraumwal.",
+    "playGame": "Steam-Seite",
+    "officialDiscord": "Community",
+    "officialYoutube": "Studio",
+    "epicStore": "Epic Store",
+    "beginnerGuide": "Komplettguide",
+    "mapGuides": "Erste Stadt",
+    "weaponsGuides": "Lieferketten",
+    "buildGuide": "vs Before We Leave",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Guides",
+    "overviewDescription": "Alle Beyond These Stars Guides — die komplette Orientierung, eure erste Stadt, die Lieferketten und der 1.0-Start."
+  },
+  "features": {
+    "overviewTitle": "Kewa & Systeme",
+    "overviewDescription": "Der Wal, die Reise, die Gebäude und das Volk — die Systeme, die eine Walrücken-Stadt beleben."
+  },
+  "comparisons": {
+    "overviewTitle": "Vergleiche",
+    "overviewDescription": "Beyond These Stars gegen seinen planetaren Vorgänger — was übernommen wurde und was der Wal änderte."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Klare Antworten zum Spiel — der 1.0-Start, die Plattformen, der Preis und der Wal."
+  }
+}

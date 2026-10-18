@@ -1,0 +1,13 @@
+{
+  "name": "Beyond These Stars Wiki",
+  "short_name": "Beyond These Stars",
+  "description": "Fan wiki for Beyond These Stars, the space-whale city builder by Balancing Monkey Games — beginner guides, city layout tips, resource and supply chain mechanics, Kewa the space whale and the 1.0 launch.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a14",
+  "theme_color": "#d9a441",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

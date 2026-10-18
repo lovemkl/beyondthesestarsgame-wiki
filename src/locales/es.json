@@ -1,0 +1,244 @@
+{
+  "site": {
+    "name": "Beyond These Stars Wiki",
+    "shortName": "Beyond These Stars",
+    "tagline": "Wiki de fans",
+    "description": "Wiki de fans de Beyond These Stars, el city builder sobre ballena espacial de Balancing Monkey Games — guías para principiantes, mecánicas de cadenas de suministro, la ballena Kewa y el lanzamiento 1.0.",
+    "legalNotice": "Wiki independiente. No afiliada a Balancing Monkey Games ni a Hooded Horse."
+  },
+  "nav": {
+    "guides": "Guías",
+    "features": "Kewa y sistemas",
+    "comparisons": "Comparativas",
+    "faq": "FAQ",
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Beyond These Stars Wiki: guía del city builder ballena espacial",
+      "description": "Wiki de Beyond These Stars — construye tu primera ciudad sobre Kewa la ballena espacial: guías, cadenas de suministro, distribución y el lanzamiento 1.0."
+    },
+    "hero": {
+      "eyebrow": "Wiki de fans",
+      "title": "Beyond These Stars",
+      "description": "Beyond These Stars es el city builder sobre ballena espacial de Balancing Monkey Games, publicado por Hooded Horse — construye una ciudad enorme sobre el lomo de Kewa la ballena espacial, gestiona cadenas de suministro y las necesidades de tu pueblo mientras viajas por la galaxia buscando propósito y respuestas. Lanzado en 1.0 el 16 de octubre de 2026 tras saltarse el acceso anticipado, con 20% de descuento en Steam. Esta wiki lo cubre desde el día de lanzamiento.",
+      "primaryCta": "Leer la guía completa",
+      "secondaryCta": "Ver el tráiler de lanzamiento",
+      "tertiaryCta": "Todas las guías",
+      "stats": ["1.0 ya disponible", "Construye sobre una ballena espacial", "Editor Hooded Horse", "Cobertura desde el lanzamiento"]
+    },
+    "updates": {
+      "title": "Novedades del lomo de la ballena",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Tu primera ciudad en cuatro pasos",
+      "title": "Del aterrizaje a una ciudad próspera",
+      "cards": [
+        { "number": "1", "title": "Conoce el juego", "description": "Beyond These Stars salió en 1.0 el 16 de octubre de 2026 — la guía completa explica la premisa, los desarrolladores y qué incluye el lanzamiento." },
+        { "number": "2", "title": "Planifica la primera ciudad", "description": "El lomo de la ballena es un paisaje curvo y vivo — la guía de primera ciudad cubre distritos, terreno y distribuciones que escalan." },
+        { "number": "3", "title": "Domina las cadenas", "description": "Los recursos se mueven por cadenas de suministro, no por magia — la guía mapea extracción, procesado y entrega." },
+        { "number": "4", "title": "Cuida a tu pueblo", "description": "Los Pequeninos tienen necesidades más allá de la comida — las páginas de sistemas cubren vivienda, trabajo, educación y felicidad." }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Lo más leído esta semana",
+      "title": "Tendencias",
+      "quickLinks": ["Principiante", "Cadenas", "Kewa", "Before We Leave"],
+      "cards": [
+        { "title": "Guía de Beyond These Stars", "description": "La orientación completa — qué es el juego, quién lo hizo y todo antes del primer aterrizaje." },
+        { "title": "Primera ciudad", "description": "Del sitio de aterrizaje a un distrito autosuficiente — las primeras horas, planificadas." },
+        { "title": "Recursos y cadenas de suministro", "description": "Cómo se mueven los bienes sobre una ballena — extracción, procesado y bucles de entrega." },
+        { "title": "vs Before We Leave", "description": "La pregunta de la semi-secuela respondida — qué se heredó, qué cambió, cuál comprar." }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Beyond These Stars?",
+      "paragraphs": [
+        "Beyond These Stars es un city builder de Balancing Monkey Games, el estudio neozelandés de Before We Leave, publicado por los especialistas en estrategia de Hooded Horse. Tu pueblo — los Pequeninos — se asienta sobre Kewa, una ballena espacial que nada por la galaxia, y construyes su civilización sobre ese paisaje vivo y curvo: casas y escuelas, granjas y fábricas, cadenas de suministro de la aleta a la cola.",
+        "La historia del desarrollo es parte de su identidad: previsto para acceso anticipado, el estudio anunció en marzo de 2026 que saltaría esa fase y saldría como 1.0 completo — y el 16 de octubre de 2026 lo hizo, en Steam y Epic con 20% de descuento de lanzamiento. Esta wiki es la compañera del día de lanzamiento."
+      ],
+      "stats": [
+        { "label": "Desarrollo", "value": "Balancing Monkey" },
+        { "label": "Editor", "value": "Hooded Horse" },
+        { "label": "Género", "value": "City Builder" },
+        { "label": "La ballena", "value": "Kewa" },
+        { "label": "Plataformas", "value": "Steam / Epic" },
+        { "label": "Estado", "value": "1.0 ya disponible" }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Todo sobre el lomo de la ballena, mapeado",
+      "description": "Guías, sistemas, comparativas y respuestas — el kit completo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de Beyond These Stars",
+          "description": "La orientación completa.",
+          "href": "/guide/beyond-these-stars-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "La premisa — una ciudad sobre Kewa la ballena espacial" },
+            { "label": "2", "detail": "El estudio y la alianza con Hooded Horse" },
+            { "label": "3", "detail": "El 1.0 que saltó el acceso anticipado" }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Primera ciudad",
+          "description": "Las primeras horas, planificadas.",
+          "href": "/guide/beginners-first-city",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Sitio de aterrizaje y primer distrito" },
+            { "label": "2", "detail": "Comida, madera y el primer bucle de suministro" },
+            { "label": "3", "detail": "Cuándo expandir y cuándo consolidar" }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Recursos y cadenas",
+          "description": "El corazón del juego.",
+          "href": "/guide/resources-and-supply-chains",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "Los bucles de entrega que se ejecutan solos" },
+            { "label": "A", "detail": "Niveles de procesado — de crudo a bienes" },
+            { "label": "B", "detail": "Ubicación de almacenes en un mapa curvo" },
+            { "label": "C", "detail": "Los errores de cuello de botella de toda ciudad nueva" }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía del lanzamiento 1.0",
+          "description": "Qué se lanzó y qué sigue.",
+          "href": "/guide/launch-and-editions",
+          "displayType": "code-cards",
+          "highlights": [
+            { "label": "1.0", "detail": "Lanzamiento completo el 16 de octubre de 2026 — qué incluye, el descuento y dónde comprar", "badge": "Nuevo" }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Kewa y el viaje",
+          "description": "La ballena es el mundo.",
+          "href": "/features/kewa-and-the-journey",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "🐋", "detail": "Kewa — un paisaje vivo y curvo" },
+            { "label": "✨", "detail": "El viaje galáctico y lo que traen las estrellas" },
+            { "label": "📐", "detail": "Construir sobre una criatura — terreno y distritos" }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Edificios y gente",
+          "description": "Necesidades más allá de la comida.",
+          "href": "/features/buildings-and-people",
+          "displayType": "tier-grid",
+          "highlights": [
+            { "label": "S", "detail": "Vivienda, trabajo y los cimientos de felicidad" },
+            { "label": "A", "detail": "Educación y la cadena de progreso" },
+            { "label": "B", "detail": "Servicios — qué construir y en qué orden" },
+            { "label": "C", "detail": "Las necesidades que los novatos pasan por alto" }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "vs Before We Leave",
+          "description": "La pregunta de la semi-secuela.",
+          "href": "/comparisons/vs-before-we-leave",
+          "displayType": "step-by-step",
+          "highlights": [
+            { "label": "1", "detail": "Qué se heredó del original planetario" },
+            { "label": "2", "detail": "Qué cambia la ballena — literalmente todo" },
+            { "label": "3", "detail": "Qué juego para qué constructor" }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "FAQ",
+          "description": "Respuestas directas.",
+          "href": "/faq/faq",
+          "displayType": "card-list",
+          "highlights": [
+            { "label": "❓", "detail": "¿Acceso anticipado? ¿Qué incluye el 1.0?" },
+            { "label": "🛒", "detail": "Steam, Epic, precio y descuento" },
+            { "label": "🐋", "detail": "¿Necesito conocer Before We Leave?" }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Beyond These Stars.",
+      "items": [
+        { "question": "¿Ya salió Beyond These Stars?", "answer": "Sí — el 1.0 completo salió el 16 de octubre de 2026 en Steam y Epic Games Store, con 20% de descuento de lanzamiento en Steam. El juego saltó su acceso anticipado previsto y salió completo." },
+        { "question": "¿De qué trata Beyond These Stars?", "answer": "Es un city builder donde tu pueblo se asienta sobre Kewa, una ballena espacial que viaja por la galaxia. Gestiona cadenas de suministro y las necesidades de tus ciudadanos sobre un paisaje vivo y curvo mientras se desarrolla la historia del viaje." },
+        { "question": "¿Está en acceso anticipado?", "answer": "No. Balancing Monkey Games anunció en marzo de 2026 que saltaría el acceso anticipado y lanzaría como 1.0 completo — y así lo hizo en octubre de 2026." },
+        { "question": "¿Necesito jugar Before We Leave primero?", "answer": "No — Beyond These Stars es una semi-secuela con su propia historia y tutorial. La página de comparativas cubre lo que se heredó para fans del original, pero los nuevos pueden empezar aquí." }
+      ]
+    },
+    "finalCta": {
+      "title": "El lomo de la ballena está abierto.",
+      "description": "Las guías, las mecánicas, las comparativas — todo para construir una ciudad próspera sobre Kewa desde el día uno.",
+      "primary": "Leer la guía completa",
+      "secondary": "La página de Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Rastreador de lanzamiento",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todas las guías",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Beyond These Stars Wiki",
+    "about": "Beyond These Stars Wiki es una wiki independiente construida por fans que cubre el city builder sobre ballena espacial de Balancing Monkey Games y Hooded Horse — guías, mecánicas de cadenas de suministro y la ballena Kewa, escritas jugando y actualizadas a medida que la comunidad mapea la ballena.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Beyond These Stars Wiki. No afiliada a Balancing Monkey Games ni a Hooded Horse. Beyond These Stars es una marca de su respectivo propietario.",
+    "description": "La wiki de Beyond These Stars — guías, cadenas de suministro y Kewa la ballena espacial.",
+    "playGame": "Página de Steam",
+    "officialDiscord": "Comunidad",
+    "officialYoutube": "Desarrollador",
+    "epicStore": "Epic Store",
+    "beginnerGuide": "Guía completa",
+    "mapGuides": "Primera ciudad",
+    "weaponsGuides": "Cadenas de suministro",
+    "buildGuide": "vs Before We Leave",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías",
+    "overviewDescription": "Todas las guías de Beyond These Stars — la orientación completa, tu primera ciudad, las cadenas de suministro y el lanzamiento 1.0."
+  },
+  "features": {
+    "overviewTitle": "Kewa y sistemas",
+    "overviewDescription": "La ballena, el viaje, los edificios y la gente — los sistemas que hacen vivir una ciudad sobre el lomo de una ballena."
+  },
+  "comparisons": {
+    "overviewTitle": "Comparativas",
+    "overviewDescription": "Beyond These Stars contra su antecesor planetario — qué se heredó y qué cambió la ballena."
+  },
+  "faq": {
+    "overviewTitle": "FAQ",
+    "overviewDescription": "Respuestas directas sobre el juego — el lanzamiento 1.0, las plataformas, el precio y la ballena."
+  }
+}

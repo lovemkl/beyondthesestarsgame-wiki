@@ -1,0 +1,27 @@
+# Beyond These Stars Wiki
+
+> Fan wiki for Beyond These Stars, the space-whale city builder by Balancing Monkey Games — beginner guides, city layout tips, resource and supply chain mechanics, Kewa the space whale and the 1.0 launch.
+
+Site: https://beyondthesestarsgame.wiki
+
+## Guides
+
+- Beyond These Stars Guide — the complete orientation: https://beyondthesestarsgame.wiki/guide/beyond-these-stars-guide
+- Beginner's First City — the opening hours, planned: https://beyondthesestarsgame.wiki/guide/beginners-first-city
+- Resources & Supply Chains — how goods move on a whale: https://beyondthesestarsgame.wiki/guide/resources-and-supply-chains
+- The 1.0 Launch Guide — what shipped and what's next: https://beyondthesestarsgame.wiki/guide/launch-and-editions
+
+## Features
+
+- Kewa & the Journey — the whale is the world: https://beyondthesestarsgame.wiki/features/kewa-and-the-journey
+- Buildings & People — needs beyond food: https://beyondthesestarsgame.wiki/features/buildings-and-people
+
+## Comparisons
+
+- vs Before We Leave — the semi-sequel question: https://beyondthesestarsgame.wiki/comparisons/vs-before-we-leave
+
+## FAQ
+
+- Beyond These Stars FAQ — the straight answers: https://beyondthesestarsgame.wiki/faq/faq
+
+Independent fan wiki. Not affiliated with Balancing Monkey Games or Hooded Horse.

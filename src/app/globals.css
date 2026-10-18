@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 228 30% 95%;
+    --foreground: 230 22% 12%;
+    --card: 228 26% 97%;
+    --card-foreground: 230 22% 12%;
+    --popover: 228 26% 97%;
+    --popover-foreground: 230 22% 12%;
+    --primary: 40 70% 40%;
+    --primary-foreground: 40 40% 97%;
+    --secondary: 228 18% 92%;
+    --secondary-foreground: 230 18% 18%;
+    --muted: 228 18% 91%;
+    --muted-foreground: 230 14% 40%;
+    --accent: 228 18% 89%;
+    --accent-foreground: 230 22% 12%;
+    --destructive: 352 82% 48%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 230 16% 83%;
+    --input: 230 16% 83%;
+    --ring: 40 70% 40%;
+    --radius: 0.375rem;
+    --nav-theme: 42 78% 44%;
+    --nav-theme-light: 42 78% 58%;
+    --chart-1: 42 78% 48%;
+    --chart-2: 228 60% 55%;
+    --chart-3: 200 30% 42%;
+    --chart-4: 150 25% 40%;
+    --chart-5: 0 0% 45%;
+  }
+
+  .dark {
+    --background: 228 30% 5%;
+    --foreground: 40 16% 88%;
+    --card: 228 26% 9%;
+    --card-foreground: 40 16% 88%;
+    --popover: 228 28% 8%;
+    --popover-foreground: 40 16% 88%;
+    --primary: 40 80% 56%;
+    --primary-foreground: 230 45% 8%;
+    --secondary: 228 22% 14%;
+    --secondary-foreground: 40 14% 86%;
+    --muted: 228 22% 14%;
+    --muted-foreground: 40 10% 64%;
+    --accent: 228 22% 17%;
+    --accent-foreground: 40 16% 88%;
+    --destructive: 0 74% 52%;
+    --destructive-foreground: 0 0% 96%;
+    --border: 226 20% 22%;
+    --input: 226 20% 22%;
+    --ring: 40 80% 52%;
+    --nav-theme: 42 82% 54%;
+    --nav-theme-light: 42 82% 66%;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  html { scroll-behavior: smooth; }
+  body { @apply bg-background text-foreground; }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(circle at 18% 12%, hsl(var(--nav-theme) / 0.12), transparent 32rem),
+      radial-gradient(circle at 85% 8%, hsl(218 60% 55% / 0.07), transparent 28rem);
+    z-index: -1;
+  }
+}
+
+@layer utilities {
+  .prose-invert { color: hsl(var(--muted-foreground)); }
+}
+
+/* Trending Now auto-scroll carousel */
+@keyframes auto-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-auto-scroll {
+  animation: auto-scroll 40s linear infinite;
+}
+
+.animate-auto-scroll:hover {
+  animation-play-state: paused;
+}
+
+/* ═══ Beyond These Stars — deep-space whaleback night theme ═══ */
+
+/* Display font: rounded stellar softness */
+h1, h2, h3, .prose h2, .prose h3 {
+  font-family: var(--font-display), var(--font-sans), sans-serif;
+  letter-spacing: 0.02em;
+}
+
+/* Faint daylight wash */
+body {
+  background-image:
+    radial-gradient(circle at 20% 10%, hsl(42 60% 46% / 0.04), transparent 30rem);
+}
+
+/* The whaleback night: city lamplight over a starfield */
+.dark body {
+  background-image:
+    radial-gradient(ellipse 900px 480px at 50% -160px, hsl(42 78% 46% / 0.14), transparent 68%),
+    radial-gradient(ellipse 640px 380px at 88% 8%, hsl(228 60% 48% / 0.12), transparent 70%),
+    radial-gradient(ellipse 560px 360px at 6% 14%, hsl(200 50% 40% / 0.08), transparent 70%),
+    repeating-linear-gradient(160deg, transparent 0 130px, hsl(228 40% 50% / 0.04) 130px 131px, transparent 131px 240px, hsl(42 40% 55% / 0.05) 240px 241px);
+}
+
+/* Section headers get a starburst */
+h2::before {
+  content: "✶ ";
+  color: hsl(var(--nav-theme));
+  font-size: 0.85em;
+}
+
+/* Cards read like lamplit districts */
+[class*="rounded-2xl"] {
+  border-radius: 0.5rem;
+}
+.dark .card, .dark [class*="bg-card"] {
+  box-shadow: inset 0 1px 0 0 hsl(42 78% 60% / 0.07), 0 2px 16px hsl(228 28% 3% / 0.55);
+}
+
+/* Header: observation deck with a lamplight seam */
+header {
+  border-bottom: 2px solid hsl(42 74% 46% / 0.5) !important;
+  box-shadow: 0 3px 16px hsl(228 45% 22% / 0.18);
+  background: linear-gradient(180deg, hsl(228 24% 10%), hsl(228 30% 5%)) !important;
+}
+
+/* Prose tables like expedition ledgers */
+.prose table {
+  border-collapse: collapse;
+}
+.prose th, .prose td {
+  border: 1px solid hsl(226 20% 26% / 0.4);
+}
