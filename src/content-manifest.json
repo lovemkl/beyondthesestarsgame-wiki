@@ -1,0 +1,313 @@
+{
+ "generatedAt": "2026-11-03T18:13:22.576Z",
+ "items": [
+  {
+   "contentType": "comparisons",
+   "slug": "vs-before-we-leave",
+   "title": "Beyond These Stars vs Before We Leave",
+   "date": "2026-10-17",
+   "category": "comparisons",
+   "headings": [
+    {
+     "id": "same-universe-same-people-different-ground",
+     "text": "Same Universe, Same People, Different Ground",
+     "level": 2
+    },
+    {
+     "id": "what-carried-over",
+     "text": "What Carried Over",
+     "level": 2
+    },
+    {
+     "id": "what-the-whale-changes",
+     "text": "What the Whale Changes",
+     "level": 2
+    },
+    {
+     "id": "which-game-for-which-builder",
+     "text": "Which Game for Which Builder",
+     "level": 2
+    },
+    {
+     "id": "the-bottom-line",
+     "text": "The Bottom Line",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "faq",
+   "slug": "faq",
+   "title": "Beyond These Stars FAQ",
+   "date": "2026-10-17",
+   "category": "faq",
+   "headings": [
+    {
+     "id": "is-beyond-these-stars-out",
+     "text": "Is Beyond These Stars Out?",
+     "level": 2
+    },
+    {
+     "id": "what-is-the-game-about",
+     "text": "What Is the Game About?",
+     "level": 2
+    },
+    {
+     "id": "wasnt-it-supposed-to-be-early-access",
+     "text": "Wasn't It Supposed to Be Early Access?",
+     "level": 2
+    },
+    {
+     "id": "who-made-it",
+     "text": "Who Made It?",
+     "level": 2
+    },
+    {
+     "id": "do-i-need-to-play-before-we-leave-first",
+     "text": "Do I Need to Play Before We Leave First?",
+     "level": 2
+    },
+    {
+     "id": "is-it-hard",
+     "text": "Is It Hard?",
+     "level": 2
+    },
+    {
+     "id": "what-platforms-and-what-does-it-cost",
+     "text": "What Platforms, and What Does It Cost?",
+     "level": 2
+    },
+    {
+     "id": "are-there-mods",
+     "text": "Are There Mods?",
+     "level": 2
+    },
+    {
+     "id": "what-should-i-read-first",
+     "text": "What Should I Read First?",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "features",
+   "slug": "buildings-and-people",
+   "title": "Buildings and People: The Needs Ladder in Beyond These Stars",
+   "date": "2026-10-17",
+   "category": "features",
+   "headings": [
+    {
+     "id": "the-ladder-bottom-to-top",
+     "text": "The Ladder, Bottom to Top",
+     "level": 2
+    },
+    {
+     "id": "buildings-and-what-they-serve",
+     "text": "Buildings and What They Serve",
+     "level": 2
+    },
+    {
+     "id": "the-needs-new-mayors-miss",
+     "text": "The Needs New Mayors Miss",
+     "level": 2
+    },
+    {
+     "id": "why-the-ladder-is-the-games-conscience",
+     "text": "Why the Ladder Is the Game's Conscience",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "features",
+   "slug": "kewa-and-the-journey",
+   "title": "Kewa and the Journey: The Whale Is the World",
+   "date": "2026-10-17",
+   "category": "features",
+   "headings": [
+    {
+     "id": "a-landscape-that-is-alive",
+     "text": "A Landscape That Is Alive",
+     "level": 2
+    },
+    {
+     "id": "districts-along-the-anatomy",
+     "text": "Districts Along the Anatomy",
+     "level": 2
+    },
+    {
+     "id": "the-journey-through-the-stars",
+     "text": "The Journey Through the Stars",
+     "level": 2
+    },
+    {
+     "id": "why-this-design-elevates-the-game",
+     "text": "Why This Design Elevates the Game",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "guide",
+   "slug": "beginners-first-city",
+   "title": "Beyond These Stars: Beginner",
+   "date": "2026-10-17",
+   "category": "guide",
+   "headings": [
+    {
+     "id": "landing-choosing-where-the-story-starts",
+     "text": "Landing: Choosing Where the Story Starts",
+     "level": 2
+    },
+    {
+     "id": "the-first-hour-survival-basics",
+     "text": "The First Hour: Survival Basics",
+     "level": 2
+    },
+    {
+     "id": "the-second-hour-stability-and-the-first-schools",
+     "text": "The Second Hour: Stability and the First Schools",
+     "level": 2
+    },
+    {
+     "id": "when-to-expand-and-when-absolutely-not-to",
+     "text": "When to Expand — and When Absolutely Not To",
+     "level": 2
+    },
+    {
+     "id": "the-three-beginner-mistakes-named",
+     "text": "The Three Beginner Mistakes, Named",
+     "level": 2
+    },
+    {
+     "id": "your-first-evening-planned",
+     "text": "Your First Evening, Planned",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "guide",
+   "slug": "beyond-these-stars-guide",
+   "title": "Beyond These Stars: The Complete Guide",
+   "badge": "Start Here",
+   "date": "2026-10-17",
+   "category": "guide",
+   "headings": [
+    {
+     "id": "the-premise-a-city-on-a-living-world",
+     "text": "The Premise: A City on a Living World",
+     "level": 2
+    },
+    {
+     "id": "the-studio-and-the-publisher",
+     "text": "The Studio and the Publisher",
+     "level": 2
+    },
+    {
+     "id": "the-launch-that-skipped-early-access",
+     "text": "The Launch That Skipped Early Access",
+     "level": 2
+    },
+    {
+     "id": "what-your-first-hours-look-like",
+     "text": "What Your First Hours Look Like",
+     "level": 2
+    },
+    {
+     "id": "the-systems-that-make-it-tick",
+     "text": "The Systems That Make It Tick",
+     "level": 2
+    },
+    {
+     "id": "who-this-game-is-for",
+     "text": "Who This Game Is For",
+     "level": 2
+    },
+    {
+     "id": "this-wikis-promise",
+     "text": "This Wiki's Promise",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "guide",
+   "slug": "launch-and-editions",
+   "title": "Beyond These Stars 1.0 Launch Guide: Editions, Price and Platforms",
+   "date": "2026-10-17",
+   "category": "guide",
+   "headings": [
+    {
+     "id": "what-shipped-on-october-16-2026",
+     "text": "What Shipped on October 16, 2026",
+     "level": 2
+    },
+    {
+     "id": "the-early-access-skip-explained",
+     "text": "The Early Access Skip, Explained",
+     "level": 2
+    },
+    {
+     "id": "platforms-and-pricing",
+     "text": "Platforms and Pricing",
+     "level": 2
+    },
+    {
+     "id": "performance-and-requirements",
+     "text": "Performance and Requirements",
+     "level": 2
+    },
+    {
+     "id": "the-community-at-launch",
+     "text": "The Community at Launch",
+     "level": 2
+    },
+    {
+     "id": "do-you-need-before-we-leave",
+     "text": "Do You Need Before We Leave?",
+     "level": 2
+    },
+    {
+     "id": "the-buying-decision-summarized",
+     "text": "The Buying Decision, Summarized",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "contentType": "guide",
+   "slug": "resources-and-supply-chains",
+   "title": "Resources and Supply Chains in Beyond These Stars",
+   "date": "2026-10-17",
+   "category": "guide",
+   "headings": [
+    {
+     "id": "the-anatomy-of-a-chain",
+     "text": "The Anatomy of a Chain",
+     "level": 2
+    },
+    {
+     "id": "the-loops-that-run-themselves",
+     "text": "The Loops That Run Themselves",
+     "level": 2
+    },
+    {
+     "id": "storage-the-curved-map-problem",
+     "text": "Storage: The Curved-Map Problem",
+     "level": 2
+    },
+    {
+     "id": "the-bottleneck-catalog",
+     "text": "The Bottleneck Catalog",
+     "level": 2
+    },
+    {
+     "id": "chains-are-the-game",
+     "text": "Chains Are the Game",
+     "level": 2
+    }
+   ]
+  }
+ ]
+}
